@@ -1,0 +1,38 @@
+Sarah Williams
+Data Scientist | Machine Learning Engineer
+
+Contact: sarah.williams@email.com | +1 (415) 555-0192
+LinkedIn: linkedin.com/in/sarahwilliams-ds
+GitHub: github.com/swilliams-ml
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Data scientist with 5 years of experience building and deploying ML models in production. Expertise in NLP, computer vision, and recommendation systems. Strong background in Python and cloud platforms.
+
+TECHNICAL SKILLS
+Languages: Python, R, SQL, Scala
+ML/DL: TensorFlow, PyTorch, Keras, scikit-learn, XGBoost
+NLP: HuggingFace Transformers, spaCy, NLTK, BERT, GPT
+Data: Pandas, NumPy, Spark, Hadoop, Airflow
+Cloud: AWS SageMaker, Azure ML, GCP Vertex AI
+Visualization: Matplotlib, Seaborn, Tableau, Power BI
+
+WORK EXPERIENCE
+Senior Data Scientist — TechCorp AI, San Francisco
+June 2021 – Present
+- Built NLP pipeline for customer review analysis processing 10M reviews/month
+- Developed recommendation engine increasing click-through rate by 35%
+- Deployed 12 ML models to production using MLflow and SageMaker
+
+Data Scientist — Analytics Co., New York
+August 2018 – May 2021
+- Created fraud detection model with 97.3% precision saving $2M annually
+- Built time-series forecasting models for inventory optimization
+- Collaborated with product teams to define ML success metrics
+
+EDUCATION
+MS Data Science — Stanford University, 2018
+BS Statistics — UC Berkeley, 2016
+
+PUBLICATIONS
+"Efficient BERT Fine-tuning for Low-Resource NLP Tasks" — ACL 2022

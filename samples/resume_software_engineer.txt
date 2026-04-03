@@ -1,0 +1,39 @@
+James Anderson
+Senior Software Engineer
+
+Email: james.anderson@email.com
+Phone: +44 7700 900123
+LinkedIn: linkedin.com/in/jamesanderson
+GitHub: github.com/janderson
+
+SUMMARY
+Experienced software engineer with 8 years building scalable backend systems and cloud-native applications. Passionate about Python, distributed systems, and machine learning infrastructure.
+
+SKILLS
+Python, Java, Go, JavaScript, TypeScript
+FastAPI, Django, Spring Boot, Node.js
+AWS, GCP, Docker, Kubernetes, Terraform
+PostgreSQL, MongoDB, Redis, Elasticsearch
+Machine Learning, TensorFlow, PyTorch, scikit-learn
+CI/CD, GitHub Actions, Jenkins
+
+EXPERIENCE
+Senior Software Engineer — DataTech Solutions Ltd., London
+January 2020 – Present
+- Led migration of monolithic application to microservices, reducing deployment time by 60%
+- Designed and implemented real-time data pipeline processing 2M events/day using Kafka and Spark
+- Mentored team of 4 junior engineers and conducted weekly code reviews
+
+Software Engineer — CloudBase Systems, Manchester
+March 2016 – December 2019
+- Built REST APIs serving 500k daily active users with 99.9% uptime
+- Implemented ML model serving infrastructure reducing inference latency by 40%
+- Contributed to open-source Kubernetes operators (500+ GitHub stars)
+
+EDUCATION
+MSc Computer Science — University of Manchester, 2016
+BSc Software Engineering — University of Leeds, 2014
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Professional
+Google Cloud Professional Data Engineer
